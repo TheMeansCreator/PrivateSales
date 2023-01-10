@@ -8,3 +8,6 @@ Nakamoto Card Silver Edition
 https://github.com/TheMeansCreator/PrivateSales/blob/main/NakamotoCardSilverEdition/export-token-nft1155-0x495f947276749ce646f68ac8c248420045cb7b5e.csv
 
 2 - Holders addresses were deduplicated resulting in file 
+
+https://github.com/TheMeansCreator/PrivateSales/blob/main/NakamotoCardSilverEdition/meanslist.txt
+
