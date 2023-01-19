@@ -12,7 +12,7 @@ https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoSilv
 # Nakamoto Card Gold Edition
 
 
-1 - A snapshot of The Means Creator collection holders was taken by downloading owners of the following NFT IDs under smart contract 0x495f947276749ce646f68ac8c248420045cb7b5e (Open Sea Store smart contract)
+1 - A snapshot of The Means Creator collection holders was taken by downloading owners of the following NFT IDs under smart contract 0x495f947276749ce646f68ac8c248420045cb7b5e (Open Sea Store smart contract). Free editions IDs were excluded.
 
 https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoCardGoldEdition/meansIDs.txt
 
