@@ -24,7 +24,7 @@ https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoCard
 
 3 - Holders addresses were deduplicated using command line "cat meanslist.txt | sort -u > sortedmeanslist.txt" resulting in file 
 
-https://github.com/TheMeansCreator/PrivateSales/blob/main/NakamotoCardSilverEdition/sortedmeanslist.txt
+https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoCardGoldEdition/meansSorted.txt
 
 
 4 - Privileged addresses (such as project members) were removed resulting in file
