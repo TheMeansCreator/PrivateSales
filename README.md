@@ -19,7 +19,7 @@ https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoCard
 
 2 - Holder addresses were extracted from the resulting HTML files with command line 'cat meansholdersNFTID* | tr '>' '\n' | grep Owner | cut -d'=' -f3 | cut -d"'" -f1 > meanslist.txt' resulting in file
 
-https://github.com/TheMeansCreator/PrivateSales/blob/main/NakamotoCardGoldEdition/meanslist.txt
+https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoCardGoldEdition/meanslist.txt
 
 
 3 - Holders addresses were deduplicated using command line "cat meanslist.txt | sort -u > sortedmeanslist.txt" resulting in file 
