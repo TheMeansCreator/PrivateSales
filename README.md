@@ -39,6 +39,6 @@ https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoCard
 https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoCardGoldEdition/meansWinners.txt
 
 
-7 - Private sales will be put up on OpenSea for each of the winner addresses starting at 16.00 UTC (19th Jan 2023) for a price of 0.0199 ETH
+7 - Private sales will be put up on OpenSea for each of the winner addresses starting at 16.30 UTC (19th Jan 2023) for a price of 0.0199 ETH
 
 https://opensea.io/collection/themeanswhatdoyoumean
