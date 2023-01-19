@@ -16,8 +16,12 @@ https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoSilv
 
 https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoCardGoldEdition/meansIDs.txt
 
+3 - Snapshot was taken between 17:47 and 17:48 UTC on Jan 18th resulting in files below
 
-2 - Holder addresses were extracted from the resulting HTML files with command line 'cat meansholdersNFTID* | tr '>' '\n' | grep Owner | cut -d'=' -f3 | cut -d"'" -f1 > meanslist.txt' resulting in file
+https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoCardGoldEdition/MeansHoldersHTMLFiles
+
+
+2 - Holder addresses were extracted from the resulting HTML files with command line 'cat meansholdersNFTID*.html | tr '>' '\n' | grep Owner | cut -d'=' -f3 | cut -d"'" -f1 > meanslist.txt' resulting in file
 
 https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoCardGoldEdition/meanslist.txt
 
