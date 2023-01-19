@@ -4,7 +4,7 @@ The Means Private Sales
 
 # Nakamoto Card Silver Edition
 
-See Nakamoto Card Silver Edition Airdrop below
+See Nakamoto Card Silver Edition Private Sale below
 
 https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoSilverCardEdition.md
 
