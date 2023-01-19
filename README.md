@@ -22,7 +22,7 @@ https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoCard
 https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoCardGoldEdition/meanslist.txt
 
 
-3 - Holders addresses were deduplicated using command line "cat meanslist.txt | sort -u > sortedmeanslist.txt" resulting in file 
+3 - Holders addresses were deduplicated using command line "cat meanslist.txt | sort -u > meansSorted.txt" resulting in file 
 
 https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoCardGoldEdition/meansSorted.txt
 
