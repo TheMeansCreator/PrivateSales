@@ -30,9 +30,9 @@ https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoCard
 4 - Privileged addresses (such as project members) were removed from the previous file
 
 
-5 - 22 lucky winners were selected by using command line "shuf -n22 meanscustomerslist.txt > meanscustomerslist22winners.txt" resulting in file
+5 - 22 lucky winners were selected by using command line "shuf -n22 meansSorted.txt > meansWinners.txt" resulting in file
 
-https://github.com/TheMeansCreator/PrivateSales/blob/main/NakamotoCardSilverEdition/meanscustomerslist22winners.txt
+https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoCardGoldEdition/meansWinners.txt
 
 
 6 - Private sales will be put up on OpenSea for each of the winner addresses starting at 15.30 UTC (10th Jan 2023) for a price of 0.02 ETH
