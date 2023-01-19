@@ -27,9 +27,8 @@ https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoCard
 https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoCardGoldEdition/meansSorted.txt
 
 
-4 - Privileged addresses (such as project members) were removed resulting in file
+4 - Privileged addresses (such as project members) were removed from the previous file
 
-https://github.com/TheMeansCreator/PrivateSales/blob/main/NakamotoCardSilverEdition/meanscustomerslist.txt
 
 5 - 22 lucky winners were selected by using command line "shuf -n22 meanscustomerslist.txt > meanscustomerslist22winners.txt" resulting in file
 
