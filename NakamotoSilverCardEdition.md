@@ -1,7 +1,3 @@
-# PrivateSales
-
-The Means Private Sales
-
 
 ###Nakamoto Card Silver Edition###
 
