@@ -14,15 +14,12 @@ https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoSilv
 
 1 - A snapshot of The Means Creator collection holders was taken by downloading owners of the following NFT IDs under smart contract 0x495f947276749ce646f68ac8c248420045cb7b5e (Open Sea Store smart contract)
 
+https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoCardGoldEdition/meansIDs.txt
 
 
+2 - Holder addresses were extracted from the resulting HTML files with command line 'cat meansholdersNFTID* | tr '>' '\n' | grep Owner | cut -d'=' -f3 | cut -d"'" -f1 > meanslist.txt' resulting in file
 
-https://github.com/TheMeansCreator/PrivateSales/blob/main/NakamotoCardSilverEdition/export-token-nft1155-0x495f947276749ce646f68ac8c248420045cb7b5e.csv
-
-
-2 - Holder addresses were extracted with command line 'cut -f6 -d"," export-token-nft1155-0x495f947276749ce646f68ac8c248420045cb7b5e.csv > meanslist.txt' resulting in file
-
-https://github.com/TheMeansCreator/PrivateSales/blob/main/NakamotoCardSilverEdition/meanslist.txt
+https://github.com/TheMeansCreator/PrivateSales/blob/main/NakamotoCardGoldEdition/meanslist.txt
 
 
 3 - Holders addresses were deduplicated using command line "cat meanslist.txt | sort -u > sortedmeanslist.txt" resulting in file 
