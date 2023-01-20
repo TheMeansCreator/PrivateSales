@@ -38,7 +38,12 @@ https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoCard
 
 https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoCardGoldEdition/meansWinners.txt
 
+7 - Previous round of the private sale ended at 16.30 UTC 20th Jan 2023 leaving 15 NFTs not claimed
 
-7 - Private sales will be put up on OpenSea for each of the winner addresses starting at 16.30 UTC (19th Jan 2023) for a price of 0.0199 ETH
+8 - Previous 22 drawn addresses were excluded from holders list resulting in file
+
+9 - 30 lucky winners were selected by using command line "shuf -n22 meansSorted.txt > meansWinners.txt" resulting in file
+
+XXX - Private sales will be put up on OpenSea for each of the winner addresses starting at XXXXX UTC (XXth Jan 2023) for a price of 0.0199 ETH
 
 https://opensea.io/collection/themeanswhatdoyoumean
