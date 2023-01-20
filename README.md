@@ -16,34 +16,29 @@ https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoSilv
 
 https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoCardGoldEdition/meansIDs.txt
 
-2 - Snapshot was taken between 17:47 and 17:48 UTC on Jan 18th resulting in files below
+3 - Snapshot was taken between 17:47 and 17:48 UTC on Jan 18th resulting in files below
 
 https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoCardGoldEdition/MeansHoldersHTMLFiles
 
 
-3 - Holder addresses were extracted from the resulting HTML files with command line 'cat meansholdersNFTID*.html | tr '>' '\n' | grep Owner | cut -d'=' -f3 | cut -d"'" -f1 > meanslist.txt' resulting in file
+2 - Holder addresses were extracted from the resulting HTML files with command line 'cat meansholdersNFTID*.html | tr '>' '\n' | grep Owner | cut -d'=' -f3 | cut -d"'" -f1 > meanslist.txt' resulting in file
 
 https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoCardGoldEdition/meanslist.txt
 
 
-4 - Holders addresses were deduplicated using command line "cat meanslist.txt | sort -u > meansSorted.txt" resulting in file 
+3 - Holders addresses were deduplicated using command line "cat meanslist.txt | sort -u > meansSorted.txt" resulting in file 
 
 https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoCardGoldEdition/meansSorted.txt
 
 
-5 - Privileged addresses (such as project members) were removed from the previous file
+4 - Privileged addresses (such as project members) were removed from the previous file
 
 
-6 - 22 lucky winners were selected by using command line "shuf -n22 meansSorted.txt > meansWinners.txt" resulting in file
+5 - 22 lucky winners were selected by using command line "shuf -n22 meansSorted.txt > meansWinners.txt" resulting in file
 
 https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoCardGoldEdition/meansWinners.txt
 
-7 - Previous round of the private sale ended at 16.30 UTC 20th Jan 2023 leaving 15 NFTs not claimed
 
-8 - Previous 22 drawn addresses were excluded from holders list resulting in file
-
-9 - 30 lucky winners were selected by using command line "shuf -n22 meansSorted.txt > meansWinners.txt" resulting in file
-
-XXX - Private sales will be put up on OpenSea for each of the winner addresses starting at XXXXX UTC (XXth Jan 2023) for a price of 0.0199 ETH
+6 - Private sales will be put up on OpenSea for each of the winner addresses starting at 16.30 UTC (19th Jan 2023) for a price of 0.0199 ETH
 
 https://opensea.io/collection/themeanswhatdoyoumean
