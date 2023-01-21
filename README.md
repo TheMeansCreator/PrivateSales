@@ -52,7 +52,7 @@ https://opensea.io/collection/themeanswhatdoyoumean
 
 https://github.com/TheMeansCreator/PrivateSales/blob/main/NakamotoCardGoldEdition/newmeansSortedExc1stRound22.txt
 
-3 - For the opportunity of claiming the 15 remaining NFTs 15 candidate addresses were selected by using command line "shuf -n15 newmeansSortedExc1stRound22.txt > newmeansWinners2ndRound30.txt" resulting in file
+3 - For the opportunity of claiming the 15 remaining NFTs 15 candidate addresses were selected by using command line "shuf -n15 newmeansSortedExc1stRound22.txt > newmeansWinners2ndRound15.txt" resulting in file
 
 https://github.com/TheMeansCreator/PrivateSales/blob/main/NakamotoCardGoldEdition/newmeansWinners2ndRound15.txt
 
