@@ -52,11 +52,11 @@ https://opensea.io/collection/themeanswhatdoyoumean
 
 https://github.com/TheMeansCreator/PrivateSales/blob/main/NakamotoCardGoldEdition/newmeansSortedExc1stRound22.txt
 
-3 - For the opportunity of claiming the 15 remaining NFTs 30 candidate addresses were selected by using command line "shuf -n30 newmeansSortedExc1stRound22.txt > newmeansWinners2ndRound30.txt" resulting in file
+3 - For the opportunity of claiming the 15 remaining NFTs 15 candidate addresses were selected by using command line "shuf -n15 newmeansSortedExc1stRound22.txt > newmeansWinners2ndRound30.txt" resulting in file
 
-https://github.com/TheMeansCreator/PrivateSales/blob/main/NakamotoCardGoldEdition/newmeansWinners2ndRound30.txt
+https://github.com/TheMeansCreator/PrivateSales/blob/main/NakamotoCardGoldEdition/newmeansWinners2ndRound15.txt
 
-4 - Private sales will be put up on OpenSea for each of the winner addresses starting at XXXXX UTC (XXth Jan 2023) for a price of 0.0199 ETH
+4 - Private sales will be put up on OpenSea for each of the winner addresses starting at 11:00 UTC (23rd Jan 2023) for a price of 0.0199 ETH
 
 https://opensea.io/collection/themeanswhatdoyoumean
 
