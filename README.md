@@ -9,7 +9,7 @@ See Nakamoto Card Silver Edition Private Sale below
 https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoSilverCardEdition.md
 
 
-# Nakamoto Card Gold Edition
+# Nakamoto Card Gold Edition (1st round)
 
 
 1 - A snapshot of The Means Creator collection holders was taken by downloading owners of the following NFT IDs under smart contract 0x495f947276749ce646f68ac8c248420045cb7b5e (Open Sea Store smart contract). Free editions IDs were excluded.
@@ -42,3 +42,21 @@ https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoCard
 6 - Private sales will be put up on OpenSea for each of the winner addresses starting at 16.30 UTC (19th Jan 2023) for a price of 0.0199 ETH
 
 https://opensea.io/collection/themeanswhatdoyoumean
+
+
+# Nakamoto Card Gold Edition (2nd round)
+
+1 - Previous round of the private sale ended at 16.30 UTC 20th Jan 2023 leaving 15 NFTs not claimed
+
+2 - Previous 22 drawn addresses were excluded from holders list resulting in file
+
+https://github.com/TheMeansCreator/PrivateSales/blob/main/NakamotoCardGoldEdition/newmeansSortedExc1stRound22.txt
+
+3 - For the opportunity of claiming the 15 remaining NFTs 30 candidate addresses were selected by using command line "shuf -n30 newmeansSortedExc1stRound22.txt > newmeansWinners2ndRound30.txt" resulting in file
+
+https://github.com/TheMeansCreator/PrivateSales/blob/main/NakamotoCardGoldEdition/newmeansWinners2ndRound30.txt
+
+4 - Private sales will be put up on OpenSea for each of the winner addresses starting at XXXXX UTC (XXth Jan 2023) for a price of 0.0199 ETH
+
+https://opensea.io/collection/themeanswhatdoyoumean
+
