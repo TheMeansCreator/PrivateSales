@@ -2,14 +2,14 @@
 
 The Means Private Sales
 
-# Nakamoto Card Silver Edition
+# Nakamoto Card Silver Edition (EXPIRED)
 
 See Nakamoto Card Silver Edition Private Sale below
 
 https://github.com/TheMeansCreator/PrivateSales/blob/2ndPrivateSale/NakamotoSilverCardEdition.md
 
 
-# Nakamoto Card Gold Edition (1st round)
+# Nakamoto Card Gold Edition (1st round)(EXPIRED)
 
 
 1 - A snapshot of The Means Creator collection holders was taken by downloading owners of the following NFT IDs under smart contract 0x495f947276749ce646f68ac8c248420045cb7b5e (Open Sea Store smart contract). Free editions IDs were excluded.
